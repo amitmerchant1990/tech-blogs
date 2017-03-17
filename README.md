@@ -94,6 +94,10 @@
 
 - [Ponyfoo](https://ponyfoo.com/) - JavaScript consulting, modularity, front-end architecture, performance, and more. Authored by Nicolás Bevacqua.
 
+# Contribution
+
+Interesting contributions are always welcome. :blush:
+
 ## License
 
 MIT
