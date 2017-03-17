@@ -1,6 +1,8 @@
 # Tech Blogs
 
-> A curated list of tech blogs
+> A curated list of tech blogs that I've came across over the time.
+
+## Programming
 
 - [The Morning Paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
