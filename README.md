@@ -94,6 +94,12 @@
 
 - [Ponyfoo](https://ponyfoo.com/) - JavaScript consulting, modularity, front-end architecture, performance, and more. Authored by Nicolás Bevacqua.
 
+- [mobiForge](https://mobiforge.com/) - Mobile Web Development.
+
+- [Alexander Zeitler](https://alexanderzeitler.com/) - Alexander Zeitler's Blog. A passionated developer love to create outstanding solutions for the web and mobile platforms since 1994.
+
+- [Coursetro](https://coursetro.com/) - Tutorials on Angular 2, ionic 2, Adobe XD,Photoshop & Java.
+
 # Contribution
 
 Interesting contributions are always welcome. :blush:
