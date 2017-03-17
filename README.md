@@ -100,6 +100,12 @@
 
 - [Coursetro](https://coursetro.com/) - Tutorials on Angular 2, ionic 2, Adobe XD,Photoshop & Java.
 
+- [Own Your Bits](https://ownyourbits.com/) - Technology with a focus on Open Source.
+
+- [C# Corner](http://www.c-sharpcorner.com/) - A Social Community of Developers and Programmers.
+
+- [RisingStack Blog](https://blog.risingstack.com) -  Blog on best practices of Node.js & Javascript.
+
 # Contribution
 
 Interesting contributions are always welcome. :blush:
