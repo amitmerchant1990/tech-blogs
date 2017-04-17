@@ -106,6 +106,10 @@
 
 - [RisingStack Blog](https://blog.risingstack.com) -  Blog on best practices of Node.js & Javascript.
 
+- [Auth0 Blog](https://auth0.com/blog/) -  Blog on articles related to Authentication and Securing APIs.
+
+- [Strong Blog](https://strongloop.com/strongblog/) -  Blog on articles related to Loopback API generator.
+
 # Contribution
 
 Interesting contributions are always welcome. :blush:
@@ -119,3 +123,8 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+
+
+> [amanvishnani.com](https://www.amanvishnani.com) &nbsp;&middot;&nbsp;
+> GitHub [@amanvishnani](https://github.com/amanvishnani) &nbsp;&middot;&nbsp;
+> Twitter [@amuDgr8](https://twitter.com/amuDgr8)
