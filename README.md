@@ -123,8 +123,3 @@ MIT
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
 > GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
 > Twitter [@amit_merchant](https://twitter.com/amit_merchant)
-
-
-> [amanvishnani.com](https://www.amanvishnani.com) &nbsp;&middot;&nbsp;
-> GitHub [@amanvishnani](https://github.com/amanvishnani) &nbsp;&middot;&nbsp;
-> Twitter [@amuDgr8](https://twitter.com/amuDgr8)
