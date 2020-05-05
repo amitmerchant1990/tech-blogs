@@ -8,7 +8,7 @@
 
 - [High Scalability](http://highscalability.com/) - Building bigger, faster, more reliable websites.
 
-- [O'Reilly Ideas](https://www.oreilly.com/ideas) - Ideas : What's on our radar.
+- [O'Reilly Ideas](https://www.oreilly.com/ideas) - Ideas: What's on our radar.
 
 - [Stratechery](https://stratechery.com/) - A blog by [Ben Thompson](https://twitter.com/benthompson).
 
@@ -30,7 +30,7 @@
 
 - [The Daily WTF](http://thedailywtf.com/) - The Daily WTF is your how-not-to guide for developing software.
 
-- [Daring Fireball](http://daringfireball.net/) - A blog By John Gruber.
+- [Daring Fireball](http://daringfireball.net/) - A blog by John Gruber.
 
 - [Hackday](http://hackaday.com/) - Hackaday serves up Fresh Hacks Every Day from around the Internet.
 
@@ -96,7 +96,7 @@
 
 - [mobiForge](https://mobiforge.com/) - Mobile Web Development.
 
-- [Alexander Zeitler](https://alexanderzeitler.com/) - Alexander Zeitler's Blog. A passionated developer love to create outstanding solutions for the web and mobile platforms since 1994.
+- [Alexander Zeitler](https://alexanderzeitler.com/) - Blog of Alexander Zeitler, a passionate developer who loves to create outstanding solutions for the web and mobile platforms, and has been developing since 1994.
 
 - [Coursetro](https://coursetro.com/) - Tutorials on Angular 2, ionic 2, Adobe XD,Photoshop & Java.
 
