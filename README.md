@@ -80,6 +80,8 @@
 
 - [Liliputing](https://liliputing.com/) - All the news about tech.
 
+- [Joho no Todai](https://joho-todai.com/en/) - Independent technology news and analysis, with English and Japanese editions covering Linux, PCs, semiconductors, AI, and cybersecurity.
+
 - [The Hack Fator](https://hackerfactor.com/blog/) - A blog on security, privacy and (foto) forensics.
 
 - [Build Please](https://buildplease.com/) - Helpful development and design advice for .NET developers.
